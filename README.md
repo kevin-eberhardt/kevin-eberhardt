@@ -1,7 +1,6 @@
 # Hi <img width="35" src="./media/wave.gif">, I'm Kevin
 # 👨🏼‍💻 About me
--   🎓business informations student
--   👨🏼‍💻working student at <a href="https://t4media.de">T4MEDIA. GmbH</a>
+-   👨🏼‍💻Associate Data Analytics @ <a href="https://diconium.com">DICONIUM</a>
 -   🤓 Always learning new things
 
 ![MacOS User](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
